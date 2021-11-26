@@ -1,6 +1,11 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2580
-\cocoatextscaling0\cocoaplatform0{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-}
+# LAB DataBricks
+
+In todays class we learn how to work in Databricks. Databriks is tool that **allows you to code in the same notebook differents language, like python and SQL**
+
+We learn the following things:
+- Create a cluster
+- Create a new notebook
+- Import data source
+- Create tables
+
+![](images/https://github.com/vonate5/class_LABS/blob/main/Semana%206/25112021/databricks.png)
