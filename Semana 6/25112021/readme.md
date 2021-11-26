@@ -4,6 +4,7 @@
 In todays class we learn how to work in Databricks. Databriks is tool that **allows you to code in the same notebook differents language, like python and SQL**
 
 We learn the following things:
+- Export data from python or SQL to csv
 - Create a cluster
 - Create a new notebook
 - Import data source
