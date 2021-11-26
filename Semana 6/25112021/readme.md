@@ -8,4 +8,4 @@ We learn the following things:
 - Import data source
 - Create tables
 
-
+![](images/databricks.png)
