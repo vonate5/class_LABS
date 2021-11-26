@@ -8,4 +8,4 @@ We learn the following things:
 - Import data source
 - Create tables
 
-![](images/https://github.com/vonate5/class_LABS/blob/main/Semana%206/25112021/databricks.png)
+![](class_LABS/Semana 6/25112021/databricks_2.png)
