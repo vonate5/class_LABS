@@ -8,4 +8,4 @@ We learn the following things:
 - Import data source
 - Create tables
 
-![](class_LABS/Semana 6/25112021/databricks_2.png)
+![](25112021/databricks_2.png)
