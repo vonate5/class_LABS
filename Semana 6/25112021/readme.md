@@ -21,6 +21,7 @@ In the following image, instead of importing the data set as a txt, we import a 
 
 ![](https://github.com/vonate5/class_LABS/blob/main/Semana%206/25112021/databricks_3.png)
 
+## Conclusion
 I found this new tool very interesting as it allows you to combine SQL and python in the same notebook, which other platforms doesn't. Find it really usefull.
 
 Thank you for reading
